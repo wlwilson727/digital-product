@@ -20,7 +20,7 @@ Owner project brief: `docs/PROJECT_BRIEF.md`. All locally authorized work procee
 4. **Store integration:** obtain scoped Shopify access only after owner authorization to inspect/configure draft products. Confirm existing branding/apps first. Install nothing and publish nothing without explicit approval.
 5. **Delivery acceptance:** upload customer ZIPs to the approved fulfillment app, test purchase/delivery/download/refund and failed-delivery flows, verify taxes and customer notices. Current CSV is only a starting point; no fulfillment integration is connected.
 6. **Spend gate:** secure explicit approval for any experiment expense. Initial validation maximum is $1,000, not authority to spend.
-7. **Source control:** owner can publish the development branch to GitHub and choose their merge process; no protected branch merge or security change is performed here.
+7. **Source control:** implementation is pushed to `build/business-foundation` on GitHub. Owner can choose their merge process; no protected branch merge or security change is performed here. The GitHub validation workflow is manual-dispatch only and has not been run remotely.
 
 ## Exact commands to resume
 
