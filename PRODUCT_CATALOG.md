@@ -8,7 +8,7 @@ All products are **unpublished, pending owner review, commercially unvalidated**
 | `products/cashflow-planner/` | Anticipate cash shortfalls over thirteen weeks | $49 | `releases/cashflow-planner-1.0.0.zip` |
 | `products/project-estimator/` | Estimate project effort, risk, costs and scope | $39 | `releases/project-estimator-1.0.0.zip` |
 
-Proposed bundle: $89 for all three, subject to owner review and demand evidence. No bundle checkout or discount is configured. These prices are hypotheses, not competitor observations or appraised values.
+Proposed bundle: $89 for all three, subject to owner review and demand evidence. The complete customer bundle is `releases/service-business-toolkit-1.0.0.zip`, built by `python3 automation/build-suite.py`, with a branded start page and connected worked example. No bundle checkout or discount is configured. These prices are hypotheses, not competitor observations or appraised values.
 
 Each package includes the offline application, calculation code, guide, FAQ, customer license, and SVG preview. Planning tools use fictional examples and USD assumptions. They are not accounting, tax, investment or legal advice. Do not bundle internal research, the dashboard, or private operating data into customer downloads.
 
