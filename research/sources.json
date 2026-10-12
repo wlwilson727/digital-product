@@ -1,0 +1,93 @@
+[
+  {
+    "id": "shopify-pricing",
+    "url": "https://www.shopify.com/pricing",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "shopify-downloads",
+    "url": "https://help.shopify.com/en/manual/products/digital-service-product/digital-downloads",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "gumroad-pricing",
+    "url": "https://gumroad.com/pricing",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "payhip-pricing",
+    "url": "https://payhip.com/pricing",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "etsy-fees",
+    "url": "https://www.etsy.com/legal/fees/",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "score-cash-flow",
+    "url": "https://www.score.org/resource/template/12-month-cash-flow-statement",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "score-startup-costs",
+    "url": "https://www.score.org/resource/template/startup-expenses",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "smartsheet-estimates",
+    "url": "https://www.smartsheet.com/free-estimate-templates",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "vertex-cashflow",
+    "url": "https://www.vertex42.com/ExcelTemplates/cash-flow-statement.html",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "notion-marketplace",
+    "url": "https://www.notion.com/templates/category/personal-productivity",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "shopify-sendowl",
+    "url": "https://apps.shopify.com/sendowl",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "shopify-sky-pilot",
+    "url": "https://apps.shopify.com/sky-pilot",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  },
+  {
+    "id": "etsy-creativity",
+    "url": "https://www.etsy.com/legal/creativity/",
+    "status": "unavailable",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "date": "2026-10-11"
+  }
+]

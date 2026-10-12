@@ -1,0 +1,55 @@
+{
+  "slug": "cashflow-planner",
+  "version": "1.0.0",
+  "name": "Cash Runway Planner",
+  "price": 49,
+  "customer": "Small service businesses and independent operators",
+  "problem": "Understand thirteen-week cash timing and identify projected shortfalls.",
+  "features": [
+    "Thirteen-week cash projection",
+    "Weekly receipts and payments",
+    "Cash warning indicators",
+    "CSV export",
+    "Offline use"
+  ],
+  "keywords": [
+    "cash flow planner",
+    "small business forecast",
+    "cash runway"
+  ],
+  "category": "Business & Industrial > Business Management",
+  "upsells": [
+    "service-pricing",
+    "project-estimator"
+  ],
+  "title": "Cash Runway Planner",
+  "description_html": "<h2>Cash Runway Planner</h2><p>Understand thirteen-week cash timing and identify projected shortfalls.</p><p>For Small service businesses and independent operators.</p><ul><li>Thirteen-week cash projection</li><li>Weekly receipts and payments</li><li>Cash warning indicators</li><li>CSV export</li><li>Offline use</li></ul><p>Downloadable offline browser tool. Includes instructions, FAQ and single-business license. Use realistic fictional examples to learn the workflow, then enter your own assumptions. Inputs remain on your device; the product has no server connection. No physical item. Planning aid; verify assumptions independently. Introductory price is a hypothesis, not proven market value.</p>",
+  "status": "draft",
+  "published": false,
+  "digital": true,
+  "ai_assistance_disclosure": "Created with AI-assisted development and human owner review required.",
+  "benefits": [
+    "Make assumptions explicit before quoting or committing cash",
+    "Compare planning scenarios without sharing private records with a server",
+    "Retain an export for your own review"
+  ],
+  "competitor_comparison": {
+    "status": "unverified market comparison",
+    "free_alternatives": "A blank spreadsheet or manual calculation can solve parts of this problem. This package supplies a focused interface, validation and instructions. No superiority claim against named paid competitors is established."
+  },
+  "faq_file": "products/cashflow-planner/FAQ.md",
+  "instructions_file": "products/cashflow-planner/GUIDE.md",
+  "license_file": "products/cashflow-planner/LICENSE.md",
+  "preview_source": "products/cashflow-planner/preview.svg",
+  "bundle_proposal": {
+    "name": "Service Business Planning Toolkit",
+    "price_usd": 89,
+    "status": "hypothesis; not a live listing"
+  },
+  "manual_requirements": [
+    "Review current marketplace policy and category",
+    "Upload preview and package manually",
+    "Configure digital fulfillment and test delivery",
+    "Owner approval before publishing"
+  ]
+}

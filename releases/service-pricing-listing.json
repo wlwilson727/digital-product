@@ -1,0 +1,54 @@
+{
+  "slug": "service-pricing",
+  "version": "1.0.0",
+  "name": "Service Price Lab",
+  "price": 39,
+  "customer": "Independent service businesses and freelancers",
+  "problem": "Set rates that cover costs, capacity and a target operating margin.",
+  "features": [
+    "Capacity-aware hourly rate",
+    "Margin and break-even outputs",
+    "CSV export",
+    "Offline use"
+  ],
+  "keywords": [
+    "service pricing calculator",
+    "freelance rates",
+    "profit margin"
+  ],
+  "category": "Business & Industrial > Business Management",
+  "upsells": [
+    "project-estimator",
+    "cashflow-planner"
+  ],
+  "title": "Service Price Lab",
+  "description_html": "<h2>Service Price Lab</h2><p>Set rates that cover costs, capacity and a target operating margin.</p><p>For Independent service businesses and freelancers.</p><ul><li>Capacity-aware hourly rate</li><li>Margin and break-even outputs</li><li>CSV export</li><li>Offline use</li></ul><p>Downloadable offline browser tool. Includes instructions, FAQ and single-business license. Use realistic fictional examples to learn the workflow, then enter your own assumptions. Inputs remain on your device; the product has no server connection. No physical item. Planning aid; verify assumptions independently. Introductory price is a hypothesis, not proven market value.</p>",
+  "status": "draft",
+  "published": false,
+  "digital": true,
+  "ai_assistance_disclosure": "Created with AI-assisted development and human owner review required.",
+  "benefits": [
+    "Make assumptions explicit before quoting or committing cash",
+    "Compare planning scenarios without sharing private records with a server",
+    "Retain an export for your own review"
+  ],
+  "competitor_comparison": {
+    "status": "unverified market comparison",
+    "free_alternatives": "A blank spreadsheet or manual calculation can solve parts of this problem. This package supplies a focused interface, validation and instructions. No superiority claim against named paid competitors is established."
+  },
+  "faq_file": "products/service-pricing/FAQ.md",
+  "instructions_file": "products/service-pricing/GUIDE.md",
+  "license_file": "products/service-pricing/LICENSE.md",
+  "preview_source": "products/service-pricing/preview.svg",
+  "bundle_proposal": {
+    "name": "Service Business Planning Toolkit",
+    "price_usd": 89,
+    "status": "hypothesis; not a live listing"
+  },
+  "manual_requirements": [
+    "Review current marketplace policy and category",
+    "Upload preview and package manually",
+    "Configure digital fulfillment and test delivery",
+    "Owner approval before publishing"
+  ]
+}

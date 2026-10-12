@@ -1,0 +1,292 @@
+{
+  "niches": [
+    {
+      "name": "Service-business pricing calculators",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 5,
+        "differentiation": 4,
+        "automation": 5,
+        "acquisition": 4,
+        "simplicity": 5
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 39.0,
+      "customer": "Solo service operators",
+      "problem": "Underpricing because billable utilization and overhead are omitted"
+    },
+    {
+      "name": "13-week cashflow forecasting",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 5,
+        "differentiation": 4,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 5
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 49.0,
+      "customer": "Small service firms",
+      "problem": "Invoice timing hides short-term cash shortfalls"
+    },
+    {
+      "name": "Freelancer project estimates and scope",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 4,
+        "differentiation": 4,
+        "automation": 5,
+        "acquisition": 4,
+        "simplicity": 5
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 39.0,
+      "customer": "Freelancers and micro agencies",
+      "problem": "Scope creep and understated contingency reduce profit"
+    },
+    {
+      "name": "Industry-specific profitability spreadsheets",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 4,
+        "differentiation": 4,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 3
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 39.0,
+      "customer": "Independent creative studios",
+      "problem": "Job revenue looks profitable before time costs"
+    },
+    {
+      "name": "Craft-market booth planning",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 3,
+        "differentiation": 4,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 29.0,
+      "customer": "Independent makers",
+      "problem": "Event profit ignores travel and time"
+    },
+    {
+      "name": "Business planning templates",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 3,
+        "differentiation": 3,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 5
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 29.0,
+      "customer": "First-time entrepreneurs",
+      "problem": "Plans omit validation economics"
+    },
+    {
+      "name": "Entrepreneur launch toolkits",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 3,
+        "differentiation": 3,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 29.0,
+      "customer": "Independent digital sellers",
+      "problem": "Uncoordinated prelaunch work"
+    },
+    {
+      "name": "Professional document bundles",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 3,
+        "differentiation": 3,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 29.0,
+      "customer": "Independent consultants",
+      "problem": "Inconsistent discovery and project onboarding"
+    },
+    {
+      "name": "Small-business operating systems",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 4,
+        "differentiation": 3,
+        "automation": 4,
+        "acquisition": 3,
+        "simplicity": 3
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 59.0,
+      "customer": "Owner-operated service firms",
+      "problem": "Scattered tasks and inconsistent handoffs"
+    },
+    {
+      "name": "Rental inventory and damage logs",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 4,
+        "differentiation": 4,
+        "automation": 4,
+        "acquisition": 2,
+        "simplicity": 3
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 39.0,
+      "customer": "Independent event rental firms",
+      "problem": "Missing stock and unrecorded returns"
+    },
+    {
+      "name": "Goal-setting and productivity systems",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 2,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 5
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Self-directed professionals",
+      "problem": "Goals do not turn into weekly actions"
+    },
+    {
+      "name": "Life coaching development tools",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 2,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Adults pursuing career clarity",
+      "problem": "Vague reflection without action"
+    },
+    {
+      "name": "Interactive assessments",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 3,
+        "automation": 5,
+        "acquisition": 2,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Freelancers reviewing operations",
+      "problem": "Do not know which bottleneck to address"
+    },
+    {
+      "name": "Digital workbooks",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 2,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "New independent professionals",
+      "problem": "Passive reading fails to produce decisions"
+    },
+    {
+      "name": "Content repurposing systems",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 2,
+        "automation": 5,
+        "acquisition": 3,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Small professional firms",
+      "problem": "Publishing consumes excessive time"
+    },
+    {
+      "name": "Home maintenance scheduling",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 3,
+        "automation": 5,
+        "acquisition": 2,
+        "simplicity": 4
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Homeowners",
+      "problem": "Preventive work forgotten"
+    },
+    {
+      "name": "Educational resources",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 2,
+        "differentiation": 3,
+        "automation": 4,
+        "acquisition": 3,
+        "simplicity": 3
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 19.0,
+      "customer": "Adult independent learners",
+      "problem": "Cannot apply concepts without practice"
+    },
+    {
+      "name": "Website templates",
+      "sources": [],
+      "scores": {
+        "demand": 1,
+        "profit": 3,
+        "differentiation": 2,
+        "automation": 4,
+        "acquisition": 3,
+        "simplicity": 2
+      },
+      "evidence_status": "unvalidated; official retrieval blocked",
+      "proposed_price": 49.0,
+      "customer": "Service businesses",
+      "problem": "Need a clear site quickly"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+"id","date","product","development","approval","listing","price","orders","refunds","fees","ads","delivery","production","fixed","visits","new_customers"
+"demo-1","2026-09-01","service-pricing","ready","pending","draft","39","12","39","15","80","0","120","20","400","10"
+"demo-2","2026-09-01","cashflow-planner","ready","pending","draft","49","8","0","12","75","0","150","20","300","7"
+"demo-3","2026-10-01","project-estimator","ready","pending","draft","39","10","39","13","85","0","100","20","350","9"
+"demo-4","2026-10-01","service-pricing","ready","pending","draft","39","16","0","18","95","0","0","20","430","14"

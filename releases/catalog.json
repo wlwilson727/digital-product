@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "currency": "USD",
+  "products": [
+    {
+      "slug": "service-pricing",
+      "version": "1.0.0",
+      "name": "Service Price Lab",
+      "price": 39,
+      "customer": "Independent service businesses and freelancers",
+      "problem": "Set rates that cover costs, capacity and a target operating margin.",
+      "features": [
+        "Capacity-aware hourly rate",
+        "Margin and break-even outputs",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "service pricing calculator",
+        "freelance rates",
+        "profit margin"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "project-estimator",
+        "cashflow-planner"
+      ],
+      "approval_status": "pending-owner-review",
+      "publication_status": "unpublished",
+      "demand_status": "unvalidated",
+      "artifact": "service-pricing-1.0.0.zip",
+      "sha256": "aa72cf51f98a9eb2987c21a24f7e273f44bb9b8bba50280702b2b5db9052c946",
+      "files": {
+        "index.html": "99442e4957e411eeb2a4f2392c1a991d99e47299469c2d88fefa4811404885c0",
+        "app.js": "777d553b2290ef0cf705e1f0dbc48db2fc1f0baae01bab6b1243413e17c26e75",
+        "style.css": "5b19af5955bc022382c17504b61229a53a27dbd9998f3445f14b90cf1d74f875",
+        "calc.js": "d30b8acda42fe9bc9006d6290c621026d3f7a16ae5219ba78c6fdf1d7e054f24",
+        "GUIDE.md": "61b25514b035fe62ba463a8530cdb025fac7cfd3d00bfa07bc670e57af9fed47",
+        "LICENSE.md": "b0fee8225c9489e7eeba70d60703737f07a4e8b93d5901dbedc525ad299c88e6",
+        "FAQ.md": "98afdadfef3d5c608277f60bbaeb01f15bc10feb3f23d3b2fffbaa29c31ea1d9",
+        "preview.svg": "988eb81ea9fbbede5a5e75e98d8d28da11dab562cce624c1d6facf4649031772"
+      }
+    },
+    {
+      "slug": "cashflow-planner",
+      "version": "1.0.0",
+      "name": "Cash Runway Planner",
+      "price": 49,
+      "customer": "Small service businesses and independent operators",
+      "problem": "Understand thirteen-week cash timing and identify projected shortfalls.",
+      "features": [
+        "Thirteen-week cash projection",
+        "Weekly receipts and payments",
+        "Cash warning indicators",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "cash flow planner",
+        "small business forecast",
+        "cash runway"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "service-pricing",
+        "project-estimator"
+      ],
+      "approval_status": "pending-owner-review",
+      "publication_status": "unpublished",
+      "demand_status": "unvalidated",
+      "artifact": "cashflow-planner-1.0.0.zip",
+      "sha256": "e8acb5e6631838820ae1b620345e5ee2109ef031cf958b9bab2f648e5245b2fa",
+      "files": {
+        "index.html": "c764dd2aa73105b9ab502c1b258af0dd452e00355731cfc81b0cb2e56a0489de",
+        "app.js": "9a5ae5a74b9c5382540a5f486b417f50126cfd294e85dccbf9ad19feea228160",
+        "style.css": "5b19af5955bc022382c17504b61229a53a27dbd9998f3445f14b90cf1d74f875",
+        "calc.js": "d9ac8b3f46db0b771675d5c6abd8b23ca865a4115603f3ad491b1d9bdae795dd",
+        "GUIDE.md": "64a967e408cdf34ce86394750f071c05222aca4c6dae421ad032a5eb5762d879",
+        "LICENSE.md": "b0fee8225c9489e7eeba70d60703737f07a4e8b93d5901dbedc525ad299c88e6",
+        "FAQ.md": "6c54188d6e1966d6101264846a14c692e0bfd1f0cdd8889664ac58a2c5c15c59",
+        "preview.svg": "de23565f1e486543a9ccf96634642d77811ea8fd491ac47376ed44829f761291"
+      }
+    },
+    {
+      "slug": "project-estimator",
+      "version": "1.0.0",
+      "name": "Project Scope Studio",
+      "price": 39,
+      "customer": "Freelancers and small project-based service businesses",
+      "problem": "Prepare consistent estimates with explicit labor, expenses and contingency.",
+      "features": [
+        "Labor and cost breakdown",
+        "Contingency and margin calculation",
+        "Printable estimate",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "project estimate",
+        "freelance quote",
+        "service proposal calculator"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "service-pricing",
+        "cashflow-planner"
+      ],
+      "approval_status": "pending-owner-review",
+      "publication_status": "unpublished",
+      "demand_status": "unvalidated",
+      "artifact": "project-estimator-1.0.0.zip",
+      "sha256": "6ddf89f172e6d156725616952fd49e6a3cac0babe00de22cb26ffd1ed20594ad",
+      "files": {
+        "index.html": "46da4db4fa62394b30120f291cde2f1eb379ea99f3670bc20aa244f4339f8ef1",
+        "app.js": "1ef65e5fdd0d9ec8c094d815edf3a67ab8c34d8bd45baeb8a34e6c410757a3f4",
+        "style.css": "5b19af5955bc022382c17504b61229a53a27dbd9998f3445f14b90cf1d74f875",
+        "calc.js": "be846d0ec9e66a3b86c980630a17210e6e5cc471444fcd5fad45c85b4fc2283a",
+        "GUIDE.md": "d101d5dc92e65ea13a9d2614edad91828a6cf90095e8b50ab7e7657ef0aeb031",
+        "LICENSE.md": "b0fee8225c9489e7eeba70d60703737f07a4e8b93d5901dbedc525ad299c88e6",
+        "FAQ.md": "1a43f1dfc22abb4bd6bee926c37542f7c4eaa9b73bc6ca04846f22134d6e445c",
+        "preview.svg": "8e9d7d72cf8b44fe3ecfade2abfda962cc0abd9fd6e120c18592b25a56aa0480"
+      }
+    }
+  ]
+}

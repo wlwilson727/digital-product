@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "currency": "USD",
+  "products": [
+    {
+      "slug": "service-pricing",
+      "version": "1.0.0",
+      "name": "Service Price Lab",
+      "price": 39,
+      "customer": "Independent service businesses and freelancers",
+      "problem": "Set rates that cover costs, capacity and a target operating margin.",
+      "features": [
+        "Capacity-aware hourly rate",
+        "Margin and break-even outputs",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "service pricing calculator",
+        "freelance rates",
+        "profit margin"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "project-estimator",
+        "cashflow-planner"
+      ]
+    },
+    {
+      "slug": "cashflow-planner",
+      "version": "1.0.0",
+      "name": "Cash Runway Planner",
+      "price": 49,
+      "customer": "Small service businesses and independent operators",
+      "problem": "Understand thirteen-week cash timing and identify projected shortfalls.",
+      "features": [
+        "Thirteen-week cash projection",
+        "Weekly receipts and payments",
+        "Cash warning indicators",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "cash flow planner",
+        "small business forecast",
+        "cash runway"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "service-pricing",
+        "project-estimator"
+      ]
+    },
+    {
+      "slug": "project-estimator",
+      "version": "1.0.0",
+      "name": "Project Scope Studio",
+      "price": 39,
+      "customer": "Freelancers and small project-based service businesses",
+      "problem": "Prepare consistent estimates with explicit labor, expenses and contingency.",
+      "features": [
+        "Labor and cost breakdown",
+        "Contingency and margin calculation",
+        "Printable estimate",
+        "CSV export",
+        "Offline use"
+      ],
+      "keywords": [
+        "project estimate",
+        "freelance quote",
+        "service proposal calculator"
+      ],
+      "category": "Business & Industrial > Business Management",
+      "upsells": [
+        "service-pricing",
+        "cashflow-planner"
+      ]
+    }
+  ]
+}

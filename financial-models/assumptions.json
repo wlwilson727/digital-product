@@ -1,0 +1,41 @@
+{
+  "conservative": {
+    "price": 39,
+    "refund_rate": 0.08,
+    "fee_rate": 0.035,
+    "fee_fixed": 0.3,
+    "cac": 22,
+    "conversion": 0.008,
+    "fixed": 150,
+    "hosting": 0,
+    "ai": 0,
+    "subscriptions": 150,
+    "support_per_order": 2
+  },
+  "moderate": {
+    "price": 49,
+    "refund_rate": 0.04,
+    "fee_rate": 0.029,
+    "fee_fixed": 0.3,
+    "cac": 12,
+    "conversion": 0.02,
+    "fixed": 100,
+    "hosting": 0,
+    "ai": 0,
+    "subscriptions": 100,
+    "support_per_order": 1
+  },
+  "optimistic": {
+    "price": 59,
+    "refund_rate": 0.02,
+    "fee_rate": 0.029,
+    "fee_fixed": 0.3,
+    "cac": 8,
+    "conversion": 0.035,
+    "fixed": 100,
+    "hosting": 0,
+    "ai": 0,
+    "subscriptions": 100,
+    "support_per_order": 0.5
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "digital-product-business",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Original offline digital products and a reproducible business production pipeline",
+  "scripts": {
+    "test": "node --test tests/test_*.mjs",
+    "test:browser": "node tests/browser.cjs",
+    "serve": "python3 -m http.server 8000 --bind 127.0.0.1",
+    "build": "python3 product-factory/factory.py build"
+  },
+  "devDependencies": { "playwright": "1.64.0" },
+  "engines": { "node": ">=22", "npm": ">=10" }
+}

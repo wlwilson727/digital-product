@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "manifest schema",
+    "required files",
+    "offline HTML references",
+    "path containment",
+    "known credential patterns",
+    "reproducible ZIP metadata",
+    "CRC integrity",
+    "SHA256 provenance"
+  ],
+  "passed": true,
+  "limitations": [
+    "No automatic certification of originality or legal compliance",
+    "Browser workflow and accessibility review required",
+    "Credential pattern scanning is limited; owner review required",
+    "Commercial demand and prices are unvalidated",
+    "Shopify CSV does not configure digital download fulfillment or taxes"
+  ]
+}

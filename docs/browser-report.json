@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "checks": [
+    "Internal product desk loads",
+    "Synthetic dashboard renders independently verified gross sales",
+    "Dashboard template downloads",
+    "CSV rejection preserves data; valid import computes $87 profit, escapes HTML and persists",
+    "Dashboard reset and empty controls",
+    "service-pricing input recalculation, print control and PDF rendering",
+    "service-pricing independent calculations, editable JSON roundtrip, CSV download and invalid import recovery",
+    "service-pricing local startup uses no external network destinations",
+    "service-pricing desktop and mobile rendering",
+    "cashflow-planner input recalculation, print control and PDF rendering",
+    "cashflow-planner independent calculations, editable JSON roundtrip, CSV download and invalid import recovery",
+    "cashflow-planner local startup uses no external network destinations",
+    "cashflow-planner desktop and mobile rendering",
+    "project-estimator input recalculation, print control and PDF rendering",
+    "project-estimator independent calculations, editable JSON roundtrip, CSV download and invalid import recovery",
+    "project-estimator local startup uses no external network destinations",
+    "project-estimator desktop and mobile rendering",
+    "No uncaught browser exceptions; dashboard narrow layout"
+  ],
+  "blockedChecks": [
+    "service-pricing direct-file startup: managed Chromium policy blocks file URLs; customer-browser verification required",
+    "cashflow-planner direct-file startup: managed Chromium policy blocks file URLs; customer-browser verification required",
+    "project-estimator direct-file startup: managed Chromium policy blocks file URLs; customer-browser verification required"
+  ],
+  "limitations": [
+    "Managed Chromium blocks file URLs; direct-file startup remains unverified in customer browsers",
+    "Manual screen reader and Safari/Firefox verification pending",
+    "No live Shopify delivery or customer demand validation"
+  ]
+}
