@@ -1,0 +1,2 @@
+# RFC-style CSV line endings are intentional, not trailing whitespace defects.
+*.csv whitespace=cr-at-eol
